@@ -8,6 +8,6 @@ setup(
     description='ESKOM predict',
     long_description=open('README.md').read(),
     install_requires=['numpy','pandas'],
-    url='https://github.com/Xenaschke/Eskom_Predict.git',
-    author='Team 3'
+    url='https://github.com/damian-vather/Eskom-Data-Processor.git',
+    author='Damian'
     )
