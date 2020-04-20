@@ -7,11 +7,11 @@ This project runs on the latest version of Python. Before you can start, ensure 
 ## Installing the project package from GitHub
  Issue this command to install from GitHub:  
 
- `pip install git+https://github.com/Xenaschke/Eskom_Predict.git`
+ `pip install git+https://github.com/damian-vather/Eskom-Data-Processor.git`
 
  If you need to install the latest version of this package, use:  
 
- `pip install --upgrade git+https://github.com/Xenaschke/Eskom_Predict.git`  
+ `pip install --upgrade git+https://github.com/damian-vather/Eskom-Data-Processor.git`  
 
 ## Prerequisites for package functionality  
 This package requires numpy to be installed. Issue these commands in your notebook to install and import numpy library:  
@@ -198,12 +198,3 @@ To contribute to this repository, one needs to email the owners of this reposito
 For pull request process: Update the README.md with details of changes to the interface.
                           You may merge the Pull Request in once you have the sign-off of the developers.
 
-## Authors
-Abdullah Shaikh  
-Kolobe Rufus Seopa  
-Tshegofatjo Makhafola  
-Vahiel Moodley  
-Xenaschke Croucamp  
-
-## Acknowledgements
-Damian Vather for his assistance.
